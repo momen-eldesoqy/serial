@@ -30,8 +30,7 @@ btn.onclick = function(){
             not.innerText = "";
             type.innerText = key;
             alert.innerText = " هذا الموبايل مسروق و ملك الشيخ شريف حسين للتواصل 01098830005 , 01000490193 , 01067989434 " ;
-            input.value = "";
-            console.log("ok");
+            
         }else{
             not.innerText = "غير مطابق";
         }
